@@ -166,7 +166,7 @@
           </div>
         </div>
         <div class="page__content">
-          <h1>user name: (store) {{ userName }}</h1>
+          <!-- <h1>user name: (store) {{ userName }}</h1> -->
           <ul class="breadcrumb">
             <li class="breadcrumb__item breadcrumb__item--hide">
               <a href="" class="breadcrumb__link"

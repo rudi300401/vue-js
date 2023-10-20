@@ -75,7 +75,7 @@ ul li {
 }
 
 .header__shape-inner:before {
-    background: rgba(84, 195, 255, 0.18);
+    background: rgba(240, 236, 236, 0.734);
     height: 250px;
     right: -15px;
 }
@@ -117,9 +117,10 @@ ul li {
 }
 
 .header__logo-img {
-    background: url('../img/weblogo.png') no-repeat;
+    background: none;
     display: block;
     height: 100%;
+    content: url('../img/weblogo.jpg');
 }
 
 .navbar__ul {
@@ -312,7 +313,7 @@ ul li {
 
 .header__basket-price {
     font-size: 13px;
-    color: #46b1ef;
+    color: #f8f6f7;
     margin-bottom: 8px;
 }
 
@@ -339,12 +340,12 @@ ul li {
 }
 
 .btn--brand {
-    background: #46b1ef;
+    background: #eff1f3;
     color: #fff;
 }
 
 .btn--brand:hover {
-    background: #2893d6;
+    background: #f3f6f7;
 }
 
 .btn--boxshadow {
@@ -572,7 +573,7 @@ ul li {
     right: 0;
     left: -40px;
     bottom: 0;
-    background: #46b1ef;
+    background: #f9fafa;
     height: 1px;
     z-index: 1;
 }

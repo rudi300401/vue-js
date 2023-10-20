@@ -20,7 +20,7 @@
               <div class="comments__row">
                 <div class="comments__info">
                   <div class="comments__avatar">
-                    <img src="img/profile.jpg" class="comments__img" alt="" />
+                    <img src="img/profile.jpg" class="comments__img" alt="foto" />
                   </div>
                   <div class="comments__details">
                     <h5 class="comments__author">
